@@ -1,16 +1,30 @@
-# Cryptography & Network Security
+<h1 align="center">Cryptography & Network Security</h1>
 
-[![Markdown](https://img.shields.io/badge/Format-Markdown-blue.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Maintained-success.svg)](#)
+<div align="center">
+  <a href="https://github.com/stek765/Crittografia-e-Network-Security/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download-Appunti_Complete_ZIP-orange?style=for-the-badge&logo=github" alt="Download Appunti">
+  </a>
+</div>
+
+---
+<br>
 
 > Raccolta di appunti, schemi e riassunti relativi ai concetti fondamentali della crittografia moderna e della sicurezza delle reti. 
-> Questo repository contiene materiale di studio strutturato per semplificare e rendere accessibili concetti complessi, partendo dai fondamenti matematici fino ad arrivare ai protocolli applicativi utilizzati su Internet.
+
 
 <p align="center">
-  <img width="800" height="559" alt="image" src="https://github.com/user-attachments/assets/3edce1cf-e016-4763-99a5-88076f285b04" />
+  <img width="800" alt="Cover" src="https://github.com/user-attachments/assets/3edce1cf-e016-4763-99a5-88076f285b04" />
 </p>
+<div align="center">
+<img src="https://img.shields.io/badge/Format-Markdown-blue.svg?style=flat-square" alt="Markdown">
+  <img src="https://img.shields.io/badge/Status-Maintained-success.svg?style=flat-square" alt="Status">
+</div>
 
-## Indice Analitico (CRITTOGRAFIA)
+---
+
+## Indice Analitico: Crittografia
+
+Di seguito la suddivisione degli argomenti trattati, strutturati per una lettura sequenziale e progressiva.
 
 ### 1. Fondamenti e Introduzione
 * **Teoria dei Numeri:** Analisi dei concetti algebrici necessari per la crittografia.
@@ -50,4 +64,11 @@
 * **Zero Knowledge Proofs (ZKP):** Dimostrazioni di conoscenza senza rivelazione di segreti.
 
 ---
-## Indice Analitico (NETWORK SECURITY) (TODO)
+
+## Indice Analitico: Network Security
+
+> **Stato dei lavori:** Materiale in fase di stesura.
+
+- [ ] Autenticazione di rete.
+- [ ] Protocolli di sicurezza (TLS/SSL, IPsec).
+- [ ] Gestione dei certificati e Public Key Infrastructure (PKI).
